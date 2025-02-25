@@ -5,6 +5,8 @@ Miscellaneous materials about stalkerware. Inspiring or referenced in my present
 
 Niebezpiecznik o [LetMeSpy](https://niebezpiecznik.pl/post/letmespy-android-wyciek-hacked/) oraz artykuły z tagiem [#stalkerware](https://niebezpiecznik.pl/tag/stalkerware/).  
 ZaufanaTrzeciaStrona o [wycieku bazy danych spyware](https://zaufanatrzeciastrona.pl/post/wyciekla-baza-ofiar-producenta-spyware-sprawdz-czy-jest-tam-twoj-telefon/).  
+[Mateusz Chrobok na YT o stalkingu](https://www.youtube.com/watch?v=CyjOwe3WiQA), wspomina też o pomocy jaką można uzyskać na [116sos.pl](https://116sos.pl/).  
+[Artykuł w Gazecie Wyborczej o AirTagach](https://krakow.wyborcza.pl/krakow/7,44425,31658319,wiem-gdzie-jestes-i-co-robisz-przestepcy-i-stalkerzy-korzystaja.html) (za paywallem).  
 
 ## in English:
 [Coalition Against Stalkerware](https://stopstalkerware.org/)  
