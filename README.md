@@ -1,14 +1,15 @@
 # stalkerware-misc
-Miscellaneous materials about stalkerware. Inspiring or referenced in my presentation about it.
+Miscellaneous materials about stalkerware. Inspiring me or referenced in my presentation about it.
 
-## in Polish:
+## po polsku:
 
 Niebezpiecznik o [LetMeSpy](https://niebezpiecznik.pl/post/letmespy-android-wyciek-hacked/) oraz artykuły z tagiem [#stalkerware](https://niebezpiecznik.pl/tag/stalkerware/).  
 ZaufanaTrzeciaStrona o [wycieku bazy danych spyware](https://zaufanatrzeciastrona.pl/post/wyciekla-baza-ofiar-producenta-spyware-sprawdz-czy-jest-tam-twoj-telefon/).  
 [Mateusz Chrobok na YT o stalkingu](https://www.youtube.com/watch?v=CyjOwe3WiQA), wspomina też o pomocy jaką można uzyskać na [116sos.pl](https://116sos.pl/).  
 [Artykuł w Gazecie Wyborczej o AirTagach](https://krakow.wyborcza.pl/krakow/7,44425,31658319,wiem-gdzie-jestes-i-co-robisz-przestepcy-i-stalkerzy-korzystaja.html) (za paywallem).  
+[Odcinek 50 TECHSPRESSO.CAFE](https://www.youtube.com/watch?v=Da_YjjNi81Y) (dostęp otwarty) w którym Gosia Fraser porusza m.in. temat wykorzystania technologii jako narzędzia przemocy wobec kobiet. Stalkerware omawiany wprost gdzieś od 40 minuty. 
 
-## in English:
+## in english:
 [Coalition Against Stalkerware](https://stopstalkerware.org/)  
 [CitizenLab - The predator in your pocket](https://citizenlab.ca/2019/06/the-predator-in-your-pocket-a-multidisciplinary-assessment-of-the-stalkerware-application-industry/)  
 [European Institute for Gender Equality - Combating cyber violence against women and girls](https://eige.europa.eu/publications-resources/publications/combating-cyber-violence-against-women-and-girls)  
